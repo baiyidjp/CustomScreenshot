@@ -15,6 +15,7 @@
 		A272F0D11C9FD22100E2AD65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A272F0CF1C9FD22100E2AD65 /* LaunchScreen.storyboard */; };
 		A272F0DC1C9FD22100E2AD65 /* CustomScreenshotTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A272F0DB1C9FD22100E2AD65 /* CustomScreenshotTests.m */; };
 		A272F0E71C9FD22100E2AD65 /* CustomScreenshotUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A272F0E61C9FD22100E2AD65 /* CustomScreenshotUITests.m */; };
+		A272F0FB1C9FF62A00E2AD65 /* 123454.png in Resources */ = {isa = PBXBuildFile; fileRef = A272F0FA1C9FF62A00E2AD65 /* 123454.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A272F0E21C9FD22100E2AD65 /* CustomScreenshotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomScreenshotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A272F0E61C9FD22100E2AD65 /* CustomScreenshotUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomScreenshotUITests.m; sourceTree = "<group>"; };
 		A272F0E81C9FD22100E2AD65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A272F0FA1C9FF62A00E2AD65 /* 123454.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123454.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				A272F0CA1C9FD22100E2AD65 /* Main.storyboard */,
 				A272F0CD1C9FD22100E2AD65 /* Assets.xcassets */,
 				A272F0CF1C9FD22100E2AD65 /* LaunchScreen.storyboard */,
+				A272F0FA1C9FF62A00E2AD65 /* 123454.png */,
 				A272F0D21C9FD22100E2AD65 /* Info.plist */,
 				A272F0C11C9FD22100E2AD65 /* Supporting Files */,
 			);
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A272F0FB1C9FF62A00E2AD65 /* 123454.png in Resources */,
 				A272F0D11C9FD22100E2AD65 /* LaunchScreen.storyboard in Resources */,
 				A272F0CE1C9FD22100E2AD65 /* Assets.xcassets in Resources */,
 				A272F0CC1C9FD22100E2AD65 /* Main.storyboard in Resources */,
@@ -501,6 +505,7 @@
 				A272F0ED1C9FD22100E2AD65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A272F0EE1C9FD22100E2AD65 /* Build configuration list for PBXNativeTarget "CustomScreenshotTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +514,7 @@
 				A272F0F01C9FD22100E2AD65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A272F0F11C9FD22100E2AD65 /* Build configuration list for PBXNativeTarget "CustomScreenshotUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +523,7 @@
 				A272F0F31C9FD22100E2AD65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
